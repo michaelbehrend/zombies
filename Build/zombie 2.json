@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "APOCALYPSE",
+"productVersion": "1.0",
+"dataUrl": "zombie 2.data.unityweb",
+"wasmCodeUrl": "zombie 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "zombie 2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
